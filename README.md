@@ -1,32 +1,36 @@
-# Hi there, I'm @light3739 👋
+# Hi, I'm Maksim 👋
 
-Welcome to my GitHub profile! I'm an enthusiastic individual with a deep interest in the world of DevOps. I'm currently on a journey to deepen my knowledge and skills in this fascinating field.
+DevOps Engineer focused on automation and infrastructure as code. 
+I build CI/CD pipelines and manage cloud environments.
 
-## About Me 🚀
+### 🛠 Tech Stack
 
-- **Interests:** My passion lies in DevOps, where I enjoy exploring new technologies and methodologies that improve the synergy between software development and IT operations. I'm particularly fascinated by automation, cloud infrastructure, and continuous integration/continuous deployment (CI/CD) practices.
+**Infrastructure & Cloud**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
-- **Learning Path:** Currently, I'm expanding my knowledge in various aspects of DevOps. This includes getting hands-on with tools like Docker, Kubernetes, Jenkins, and exploring cloud platforms like AWS, Azure, or GCP. I'm always keen to learn more and believe in continuous improvement.
+**CI/CD & Monitoring**
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
 
-- **Goals:** My ultimate goal is to become a proficient DevOps engineer who can contribute effectively to building scalable and efficient software deployment workflows. I aim to keep abreast of the latest trends and best practices in the industry.
+**Scripting**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 
-## Collaboration and Contributions 💞️
+---
 
-I am actively seeking opportunities to collaborate on projects related to DevOps. Whether it's contributing to open-source projects, developing new tools, or sharing knowledge, I'm excited to work with like-minded individuals and teams. 
+### 🔭 Currently working on:
+- Improving **CI/CD pipelines** for microservices.
+- Managing infrastructure with **Terraform**.
+- Exploring **Kubernetes** and container orchestration.
 
-If you're working on something where you think I can contribute, or if you just want to exchange ideas and learn together, please feel free to reach out!
-
-## Connect with Me 🌐
-
-- **GitHub:** You're already here! Check out my repositories and don't hesitate to fork or star if you find something interesting.
-- **Telegram:** @Light3739
-- **Gmail:** maxikpetlitskii@gmail.com
-
-Thank you for visiting my profile. Let's explore and grow in the world of DevOps together!
-
- 
+### 📫 Reach me here:
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/fhdnjdfjfa)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pzndvps@proton.me)
 
 <!---
 light3739/light3739 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
